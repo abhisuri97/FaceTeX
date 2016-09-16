@@ -18,7 +18,7 @@ If you're deploying on Heroku, click the deploy button above then you only need 
 5. After that you should be ready to go!
 
 ## Contributors
-[@webfreak7](https://github.com/webfreak7/)
+[@abhisuri97](https://github.com/abhisuri97/)
 
 ## Credits
 Thank you to `facebook-chat-api` and `mathjax-node` for making the majority of this happen!
